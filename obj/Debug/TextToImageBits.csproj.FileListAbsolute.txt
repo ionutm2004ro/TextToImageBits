@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\TextToImageBits\TextToImageBits\obj\Debug\TextToImageBits.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\TextToImageBits\TextToImageBits\obj\Debug\TextToImageBits.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TextToImageBits\TextToImageBits\bin\Debug\TextToImageBits.exe.config
+C:\Users\USER\source\repos\TextToImageBits\TextToImageBits\bin\Debug\TextToImageBits.exe
+C:\Users\USER\source\repos\TextToImageBits\TextToImageBits\bin\Debug\TextToImageBits.pdb
+C:\Users\USER\source\repos\TextToImageBits\TextToImageBits\obj\Debug\TextToImageBits.exe
+C:\Users\USER\source\repos\TextToImageBits\TextToImageBits\obj\Debug\TextToImageBits.pdb
